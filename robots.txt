@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://appadaycreator.github.io/hotel-vs-airbnb-advisor/sitemap.xml
